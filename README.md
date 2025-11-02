@@ -100,7 +100,9 @@ Kami percaya bahwa setiap ide besar pantas diwujudkan menjadi solusi nyata yang 
   <img src="https://img.shields.io/badge/Arduino_Uno-008184?logo=arduino&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arduino_IDE-006C6C?logo=arduino&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MQTT-660099?logo=mqtt&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" />
 </p>
+
 
 ---
 
