@@ -93,14 +93,27 @@ Kami percaya bahwa setiap ide besar pantas diwujudkan menjadi solusi nyata yang 
 
 ### 🔌 IoT & Embedded Systems
 <p align="center">
+  <!-- 🧩 Microcontrollers & Boards -->
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESP32-FF6600?logo=espressif&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESP8266-5C5470?logo=espressif&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Wokwi-FF5733?logo=arduino&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arduino_Uno-008184?logo=arduino&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Arduino_IDE-006C6C?logo=arduino&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MQTT-660099?logo=mqtt&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP32-FF6600?logo=espressif&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ESP8266-5C5470?logo=espressif&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NodeMCU-14354C?logo=espressif&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" />
+
+  <!-- ⚙️ Simulation & Tools -->
+  <img src="https://img.shields.io/badge/Wokwi-FF5733?logo=arduino&logoColor=white&style=for-the-badge" />
+
+  <!-- ☁️ IoT Platforms & Cloud -->
+  <img src="https://img.shields.io/badge/Blynk-2ECC71?logo=blynk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS_IoT_Core-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
+
+  <!-- 🌐 Communication Protocols -->
+  <img src="https://img.shields.io/badge/MQTT-660099?logo=mqtt&logoColor=white&style=for-the-badge" />
 </p>
 
 
