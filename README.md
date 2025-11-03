@@ -1,141 +1,234 @@
-<h1 align="center"> Diginest — Your Digital Growth Partner</h1>
-
 <p align="center">
-  <em>Creative Agency • Software House • Digital Partner</em><br/>
-  <strong>Branding | UI/UX | Web Development | IoT for City & Agriculture</strong>
+  <img src="https://github.com/Diginest-Companny/diginest.company/blob/main/Logo_random3.png" alt="Diginest Logo" width="500" />
+</p>
+
+<h1 align="center">Diginest Company</h1>
+<p align="center">
+  <b>Agensi Kreatif & Software House</b> yang berfokus pada <b>Branding, UI/UX Design, Web & App Development,</b> serta <b>IoT Solutions</b>.
 </p>
 
 <p align="center">
-  Empowering <b>UMKM</b>, <b>Corporates</b>, and <b>Educational Institutions</b> through modern digital transformation.
+  🌐 <a href="#">Website</a> • 📩 <a href="#">Contact</a> • 💼 <a href="#">Portfolio</a> • 🚀 <a href="#">Careers</a>
 </p>
 
 ---
 
-## 🌐 About Diginest
+## 🧭 Tentang Kami
+**Diginest Company** adalah agensi kreatif dan software house yang menggabungkan kreativitas, teknologi, dan inovasi untuk membantu bisnis serta institusi berkembang di era digital.  
+Kami berfokus pada pengembangan solusi digital yang modern, efisien, dan berorientasi pada pengalaman pengguna.
 
-**Diginest** adalah agensi kreatif dan software house profesional yang berfokus pada solusi digital inovatif dan berkelanjutan.  
-Kami membantu bisnis dan institusi untuk tumbuh secara digital melalui:
+Dengan tim profesional yang berpengalaman di bidang desain, pengembangan web, aplikasi mobile, dan Internet of Things (IoT), kami hadir sebagai **mitra digital** bagi perusahaan, UMKM, institusi pendidikan, dan organisasi pemerintah.
 
-- 🌟 **Brand Identity & Digital Branding**
-- 🧠 **UX/UI Design & Web Development**
-- 🏙️ **IoT Solutions for Smart City & Agriculture**
-- 🧾 **Education System Integration & Digital Services**
+---
 
-Kami percaya bahwa setiap ide besar pantas diwujudkan menjadi solusi nyata yang berdampak.
+## 🎯 Visi & Misi
+
+### 💡 Visi
+Menjadi perusahaan teknologi kreatif terdepan di Indonesia yang menghadirkan solusi digital inovatif dan berdampak positif bagi masyarakat.
+
+### 🚀 Misi
+- Menghadirkan desain dan teknologi yang memudahkan kehidupan.  
+- Menyediakan layanan digital yang efisien, berkelanjutan, dan mudah diakses.  
+- Membangun kemitraan jangka panjang dengan klien melalui kepercayaan dan kualitas.  
+- Mendorong inovasi berkelanjutan dalam setiap proyek yang kami jalankan.
+
+---
+
+## 💼 Layanan Kami
+
+| Kategori | Deskripsi |
+|-----------|------------|
+| 🎨 **UI/UX Design** | Menciptakan antarmuka yang estetis, intuitif, dan ramah pengguna untuk web dan mobile. |
+| 💻 **Web & App Development** | Pengembangan website dan aplikasi multiplatform menggunakan teknologi modern. |
+| 🌐 **IoT Solutions** | Solusi Internet of Things untuk smart city, pertanian, pendidikan, dan industri. |
+| 🧠 **Creative Design & Branding** | Pembuatan identitas visual dan branding profesional untuk perusahaan dan startup. |
+| 🧰 **IT Consultation & Integration** | Memberikan arahan teknologi dan integrasi sistem untuk efisiensi bisnis. |
+
+---
+
+## 🧱 Architecture & System Design
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-005571?logo=nginx&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Event_Driven-FF4081?logo=apachekafka&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/gRPC-4285F4?logo=grpc&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CQRS-6A1B9A?logo=azuredevops&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Domain--Driven_Design-2196F3?logo=designernews&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/12FA-FF6F00?logo=heroku&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-### 🚀 Languages & Frameworks
+### 🚀 Frontend Development
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
   <br/>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge" />
+  <!-- Build & Dev Tools -->
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Turborepo-000000?logo=turborepo&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic_Release-494949?logo=semanticrelease&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Changesets-8A2BE2?logo=gitbook&logoColor=white&style=for-the-badge" />
   <br/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
+  <!-- State Management -->
+  <img src="https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" />
+  <br/>
+  <!-- Styling -->
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UnoCSS-3DDC84?logo=unocss&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styledcomponents&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-### ⚙️ Databases & DevOps
+### ⚙️ Backend Development
 <p align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC00?logo=clickhouse&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 🔗 APIs
+<p align="center">
+  <img src="https://img.shields.io/badge/gRPC-4285F4?logo=grpc&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_API-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 💬 Messaging & Streaming
+<p align="center">
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 🧠 Caching & Performance
+<p align="center">
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Varnish-1572B6?logo=varnish&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Android_(Kotlin)-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/iOS_(Swift)-FA7343?logo=swift&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Objective--C-438EFF?logo=apple&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### ☁️ Infrastructure & Cloud
+<p align="center">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Private_Cloud-008080?logo=icloud&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-### 🛠️ Tools & Design
+### 🧪 Software Testing
 <p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-0078D7?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge" />
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
   <br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?logo=adobexd&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?logo=adobepremierepro&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?logo=playwright&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/XCTest-007396?logo=apple&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Detox-333333?logo=android&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/K6-7D64FF?logo=k6&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
-### 🤖 AI & Developer Assistants
+### 🤖 AI Tools
 <p align="center">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=google&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Claude-FFD43B?logo=anthropic&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qwen-0078D4?logo=alibabacloud&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cursor_AI-1A73E8?logo=openai&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Copilot-000000?logo=githubcopilot&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor-8A2BE2?logo=cursor&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+### 🏗️ Platform & Infrastructure Tools
+<p align="center">
+  <!-- Orchestration -->
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
+  <!-- Containers -->
+  <img src="https://img.shields.io/badge/Containerd-575757?logo=containerd&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rancher-0075A8?logo=rancher&logoColor=white&style=for-the-badge" />
+  <!-- Monitoring -->
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
 ### 🔌 IoT & Embedded Systems
 <p align="center">
-  <!-- 🧩 Microcontrollers & Boards -->
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arduino_Uno-008184?logo=arduino&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arduino_IDE-006C6C?logo=arduino&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/ESP32-FF6600?logo=espressif&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ESP8266-5C5470?logo=espressif&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NodeMCU-14354C?logo=espressif&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STM32-03234B?logo=stmicroelectronics&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?logo=raspberrypi&logoColor=white&style=for-the-badge" />
-
-  <!-- ⚙️ Simulation & Tools -->
-  <img src="https://img.shields.io/badge/Wokwi-FF5733?logo=arduino&logoColor=white&style=for-the-badge" />
-
-  <!-- ☁️ IoT Platforms & Cloud -->
-  <img src="https://img.shields.io/badge/Blynk-2ECC71?logo=blynk&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?logo=nodered&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS_IoT_Core-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
-
-  <!-- 🌐 Communication Protocols -->
-  <img src="https://img.shields.io/badge/MQTT-660099?logo=mqtt&logoColor=white&style=for-the-badge" />
 </p>
 
+---
+
+## 🌍 Mengapa Memilih Kami?
+✨ **Inovatif:** Kami menghadirkan solusi digital dengan sentuhan kreativitas dan teknologi terkini.  
+⚙️ **Efisien:** Setiap proyek dirancang untuk hasil optimal dengan waktu dan biaya efektif.  
+🤝 **Kolaboratif:** Kami membangun hubungan jangka panjang berdasarkan kepercayaan dan transparansi.  
+🚀 **Hasil Nyata:** Fokus kami bukan hanya tampilan, tapi juga performa dan dampak bisnis.
 
 ---
 
-## 🌍 Mission
-
-> “Empowering innovation through technology, creativity, and collaboration.”
-
-Kami berkomitmen untuk menjadi mitra digital terbaik bagi bisnis yang ingin tumbuh dan bertransformasi di era digital.
+## 📞 Hubungi Kami
+📧 **Email:** [info@diginest.company](mailto:info@diginest.company)  
+🌐 **Website:** [www.diginest.company](https://diginest.company)  
+💼 **LinkedIn:** [linkedin.com/company/diginest](#)  
+📸 **Instagram:** [@diginest.company](#)  
+💻 **GitHub:** [github.com/Diginest-Companny](https://github.com/Diginest-Companny)
 
 ---
-
-## 📫 Contact Us
 
 <p align="center">
-  🌐 Website: <a href="#">www.diginest.id</a> <br/>
-  📧 Email: <a href="mailto:hello@diginest.id">hello@diginest.id</a> <br/>
-  💼 LinkedIn: <a href="#">linkedin.com/company/diginest</a> <br/>
-  🐦 Twitter: <a href="#">@DiginestTeam</a>
+  <b>© 2025 Diginest Company</b><br/>
+  Empowering Innovation Through Technology 🚀
 </p>
-
----
-
-<p align="center">✨ Made with passion by <strong>Diginest Team</strong> ✨</p>
